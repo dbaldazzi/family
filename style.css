@@ -1,0 +1,26 @@
+#header{
+text-align: center;
+color: blue; 
+border: crimson;
+border-width: 10px;
+border-style: solid;
+margin: 0px;
+font-size: 50px;
+}
+
+.names{
+color: green;
+font-size: 30px;
+}
+
+body{
+    background-image: url(IMG_2309.JPG);
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100vh;
+}
+
+.color{
+    background-color:lightskyblue
+}
